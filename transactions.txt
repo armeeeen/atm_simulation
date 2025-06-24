@@ -1,9 +1,0 @@
-08ca0ac9::Deposited $300.00
-08ca0ac9::Withdrew $200.00
-08ca0ac9::Withdrew $50.00
-08ca0ac9::Deposited $45678.00
-08ca0ac9::Withdrew $45678.00
-829e7767::Deposited $40000.00
-829e7767::Withdrew $10000.00
-829e7767::Deposited $5000.00
-08ca0ac9::Deposited $50.00
